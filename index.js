@@ -28,5 +28,5 @@ CFonts.say('PROGRAMMER', {
    colors: ['system'],
    font: 'tiny',
    align: 'center',
-   color: ['color']
+   color: ['system']
 }), start()
