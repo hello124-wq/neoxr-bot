@@ -20,12 +20,13 @@ function start() {
 	})
 }
 
-CFonts.say('NEOXR BOT', {
+CFonts.say('PROGRAMMER', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
-}), CFonts.say('Github : https://github.com/neoxr/neoxr-bot', {
+}), CFonts.say('', {
    colors: ['system'],
-   font: 'console',
-   align: 'center'
+   font: 'tiny',
+   align: 'center',
+   color: ['color']
 }), start()
